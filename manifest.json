@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "1.0",
+
+  "description": "__MSG_extensionDescription__",
+
+  "default_locale": "en",
+
+  "icons": {
+    "48": "icons/icon-sm.svg",
+    "96": "icons/icon.svg"
+  },
+
+  "permissions": ["contextMenus"],
+
+  "background": {
+    "scripts": ["jisho_menu_item.js"]
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_popup": "pages/jisho_search.html",
+    "default_icon": {
+      "16": "icons/icon-sm.svg",
+      "32": "icons/icon-sm.svg",
+      "64": "icons/icon.svg"
+    }
+  }
+}

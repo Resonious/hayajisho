@@ -1,0 +1,46 @@
+body {
+  width: 20em;
+  min-height: 8em;
+}
+
+.invisible {
+  display: none;
+}
+
+.searchbox {
+  width: 20em;
+}
+
+#search-submitted {
+  margin: auto;
+  padding: 0.5em;
+}
+#submitted-message {
+  margin: auto;
+}
+
+.spinner {
+  margin: auto;
+  display: inline-block;
+  margin-right: 0.1em;
+
+  width: 1em;
+  height: 1em;
+  animation-name: spin;
+  animation-duration: 2500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+
+  border: 0.2em solid black;
+  border-style: dotted;
+  border-radius: 100%;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Quick Jisho Lookup",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds context menu option for quick, in-place jisho.org lookup.",
+    "description": "Description of the extension."
+  },
+
+  "lookupOnJisho": {
+    "message": "Jisho.org lookup",
+    "description": "Text shown on context menu button."
+  }
+}

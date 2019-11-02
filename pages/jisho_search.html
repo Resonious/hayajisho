@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="jisho_search.css"/>
+  </head>
+
+<body>
+  <img style="margin: 0.5em" width=132 height=64 src="jisho-logo.png" />
+
+  <form id="search" action="https://jisho.org/search" accept-charset="UTF-8">
+    <input id="search-term" class="searchbox" type="text" name="keyword" placeholder="何でも" autofocus />
+    <div id="search-submitted" class="invisible searchbox">
+      <div class="spinner">
+      </div>
+      <span id="submitted-message"></span>
+    </div>
+  </form>
+
+  <script src="jisho_search.js"></script>
+</body>
+
+</html>
