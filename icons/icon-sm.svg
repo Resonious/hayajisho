@@ -10,9 +10,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32.674149mm"
-   height="32.874149mm"
-   viewBox="0 0 32.674148 32.874149"
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 31.999999 32"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39762958"
-     inkscape:cx="-410.80681"
-     inkscape:cy="-444.27149"
+     inkscape:zoom="5.3190603"
+     inkscape:cx="59.793962"
+     inkscape:cy="68.705417"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="-0.2"
@@ -57,7 +57,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-44.767192,-88.06205)"
+     transform="translate(-44.767192,-88.936197)"
      sodipodi:insensitive="true">
     <rect
        id="rect60"
@@ -71,70 +71,70 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-44.767192,-88.06205)">
+     transform="translate(-44.767192,-88.936197)">
     <g
        id="g907"
-       transform="matrix(0.22900753,0,0,0.22900753,49.571262,96.080668)"
-       style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       transform="matrix(0.22900753,0,0,0.22900753,49.571262,96.609835)"
+       style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
-         style="fill:none;stroke:#d1d1d1;stroke-width:8.70713727;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#d1d1d1;stroke-width:8.70713711;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="kvg:StrokePaths_08a33">
         <g
            kvg:element="訳"
            id="kvg:08a33"
-           style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+           style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <g
              kvg:radical="general"
              kvg:position="left"
              kvg:element="言"
              id="kvg:08a33-g1"
-             style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
             <path
                d="m 23.55,13.25 c 2.69,1.41 6.96,5.8 7.63,8"
                kvg:type="㇔"
                id="kvg:08a33-s1"
                inkscape:connector-curvature="0"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                d="m 10.62,31.83 c 1.7,0.56 4.01,0.55 5.76,0.39 7.62,-0.72 15.85,-1.79 22.38,-2.67 2.14,-0.29 4.19,-0.54 6.34,-0.12"
                kvg:type="㇐"
                id="kvg:08a33-s2"
                inkscape:connector-curvature="0"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                d="m 16.43,44.81 c 1.28,0.36 3.01,0.25 4.32,0.07 4.27,-0.59 9,-1.66 13.01,-2.35 1.39,-0.24 3.11,-0.52 4.51,-0.28"
                kvg:type="㇐"
                id="kvg:08a33-s3"
                inkscape:connector-curvature="0"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                d="m 17.05,55.83 c 1.21,0.37 2.98,0.17 4.22,0.03 3.67,-0.39 7.21,-1.02 12.59,-2.09 1.38,-0.27 3.07,-0.56 4.47,-0.31"
                kvg:type="㇐"
                id="kvg:08a33-s4"
                inkscape:connector-curvature="0"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <g
                kvg:element="口"
                id="kvg:08a33-g2"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
               <path
                  d="m 14.26,68.4 c 0.86,0.86 1.39,2.21 1.72,3.95 1.14,6.03 1.83,9.96 2.47,15.63 0.16,1.39 0.3,2.75 0.41,4.02"
                  kvg:type="㇑"
                  id="kvg:08a33-s5"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <path
                  d="m 16.19,70.12 c 7.93,-1.5 13.03,-2.16 19.19,-3.03 2.69,-0.38 4.35,0.49 3.77,3.54 -1.03,5.37 -1.99,9.41 -3.59,15.83"
                  kvg:type="㇕b"
                  id="kvg:08a33-s6"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <path
                  d="m 18.92,89.05 c 4.49,-0.45 9.18,-0.83 14.81,-1.42 1.11,-0.12 2.28,-0.25 3.49,-0.38"
                  kvg:type="㇐b"
                  id="kvg:08a33-s7"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
           </g>
           <g
@@ -142,47 +142,47 @@
              kvg:position="right"
              kvg:element="尺"
              id="kvg:08a33-g3"
-             style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
             <g
                kvg:element="尸"
                id="kvg:08a33-g4"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
               <path
                  d="m 52.89,21.32 c 1.5,0.77 3.42,1.2 5.02,1.04 10.34,-0.99 22.44,-2.75 25.88,-3.22 2.96,-0.4 3.96,1.95 3.46,4.19 C 85.88,29.5 84.75,33.5 83,41.75"
                  kvg:type="㇕c"
                  id="kvg:08a33-s8"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <path
                  d="m 57.5,45.25 c 3.43,-0.2 16.2,-1.73 23.99,-2.58 2.02,-0.22 3.64,-0.38 4.57,-0.43"
                  kvg:type="㇐b"
                  id="kvg:08a33-s9"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <g
                  kvg:part="1"
                  kvg:element="八"
                  id="kvg:08a33-g5"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
                 <path
                    d="m 55.34,22.62 c 0.9,0.9 1.22,2.43 1.24,3.88 0.55,32.26 -2.95,54.88 -17.08,69.26"
                    kvg:type="㇒"
                    id="kvg:08a33-s10"
                    inkscape:connector-curvature="0"
-                   style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                   style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               </g>
             </g>
             <g
                kvg:part="2"
                kvg:element="八"
                id="kvg:08a33-g6"
-               style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+               style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
               <path
                  d="m 64.75,44.75 c 4.75,10.16 14.56,29.82 22.03,40.44 2.04,2.89 4.47,6.06 7.47,8.31"
                  kvg:type="㇏"
                  id="kvg:08a33-s11"
                  inkscape:connector-curvature="0"
-                 style="stroke:#d1d1d1;stroke-width:8.70713727;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                 style="stroke:#d1d1d1;stroke-width:8.70713711;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
           </g>
         </g>
@@ -193,85 +193,85 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-44.767192,-88.06205)">
+     transform="translate(-44.767192,-88.936197)">
     <g
        id="g865"
-       transform="matrix(0.39769406,0,0,0.39769406,79.477528,112.67901)"
-       style="stroke:#f7fcff;stroke-width:4.0231931;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       transform="matrix(0.39769406,0,0,0.39769406,79.477528,113.20818)"
+       style="stroke:#f7fcff;stroke-width:4.02319288;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
-         style="fill:none;stroke:#f7fcff;stroke-width:6.74163871;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#f7fcff;stroke-width:6.74163866;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="kvg:StrokePaths_0304f"
          transform="matrix(0.59676783,0,0,0.59676783,-52.71182,-67.182438)">
         <g
            id="kvg:0304f"
-           style="stroke:#f7fcff;stroke-width:6.74163871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+           style="stroke:#f7fcff;stroke-width:6.74163866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              d="m 60.66,15 c 0.5,1.62 0.35,5.44 -1,7.38 -6.75,9.62 -14.3,19.08 -18.62,24.5 -4,5 -3.79,7.03 -0.88,11 5.5,7.5 12.75,18.75 17.62,27.25 1.48,2.59 2.75,4.75 4.5,8.62"
              id="kvg:0304f-s1"
              inkscape:connector-curvature="0"
-             style="stroke:#f7fcff;stroke-width:6.74163871;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="stroke:#f7fcff;stroke-width:6.74163866;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
     </g>
     <g
-       transform="matrix(0.22308921,0,0,0.22308921,42.715623,86.415279)"
+       transform="matrix(0.22308921,0,0,0.22308921,42.715623,86.944446)"
        id="g4623"
-       style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="g4607"
-         style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <g
            id="g4605"
            kvg:element="早"
-           style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+           style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <g
              id="g4597"
              kvg:element="日"
              kvg:position="top"
              kvg:radical="general"
-             style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
             <path
                inkscape:connector-curvature="0"
                id="path4589"
                kvg:type="㇑"
                d="m 28,16 c 1.25,1.25 1.82,2.05 2.25,4 1,4.5 2.75,16.75 4.13,24.98 0.32,1.91 0.49,2.52 0.96,4.27"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                id="path4591"
                kvg:type="㇕a"
                d="m 30.51,17.25 c 0.94,-0.05 42.78,-4.51 46.27,-4 1.72,0.25 3.37,2.22 2.71,4.75 -1.01,3.87 -2.86,13.89 -4.73,22.06 -0.42,1.86 -0.89,3.07 -1.51,5.44"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                id="path4593"
                kvg:type="㇐a"
                d="m 33.61,31.75 c 9.14,-1 34.52,-3.12 42.21,-3.5"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                id="path4595"
                kvg:type="㇐a"
                d="M 36.01,46.5 C 47.88,45.5 67,44 73,44"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
           <g
              id="g4603"
              kvg:element="十"
              kvg:position="bottom"
-             style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
             <path
                inkscape:connector-curvature="0"
                id="path4599"
                kvg:type="㇐"
                d="m 14.13,66.16 c 1.94,0.48 5.52,0.61 7.46,0.48 16.82,-1.13 52.04,-3.88 67.86,-3.84 3.24,0.01 5.19,0.23 6.81,0.47"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                id="path4601"
                kvg:type="㇑"
                d="m 53.23,47.75 c 1.13,1.13 1.47,2.88 1.47,4.49 0,0.91 -0.01,26.62 -0.09,39.51 -0.02,2.81 -0.04,5.02 -0.05,6.25"
-               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201876;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;stroke:#f7fcff;stroke-width:7.17201853;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
       </g>
