@@ -25,5 +25,11 @@
       "32": "icons/icon-sm.svg",
       "64": "icons/icon.svg"
     }
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "hayajisho@nigelbaillie.me"
+    }
   }
 }

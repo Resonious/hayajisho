@@ -1,14 +1,5 @@
-body {
-  width: 20em;
-  min-height: 8em;
-}
-
 .invisible {
   display: none;
-}
-
-.searchbox {
-  width: 20em;
 }
 
 #search-submitted {
